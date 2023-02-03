@@ -1,3 +1,3 @@
-# Linux-XP
+# Linux XP
 
 Coming soon...
